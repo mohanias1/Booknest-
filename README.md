@@ -118,4 +118,8 @@ Currently, two official plugins are available:
 
 - https://github.com/user-attachments/assets/d66dae5f-b865-446e-8d3c-0b38bd698a59
 
+# output
+![Screenshot 2025-07-07 at 12-45-52 Book-Store  doc - Book-Store doc 1 pdf](https://github.com/user-attachments/assets/9f6364a3-d116-4477-8654-bba7e25074cb)
+
+
 

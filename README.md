@@ -6,6 +6,12 @@
 
 "COLLEGE": UNIVERSAL COLLEGE OF ENGINEERING AND TECHONOLOGY 
 
+# PROJECT STRUCTURE PDF
+
+(https://github.com/user-attachments/files/21097088/Book-Store.pdf)
+
+
+
 # INTRODUCTION 
 
 Certainly! Here's an elaborated version of the **BookNest – Where Stories Nestle** description, enriched with imagery, emotion, and purpose. You can use this for an "About Us" section, promotional material, or as a brand story:

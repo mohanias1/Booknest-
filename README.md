@@ -121,5 +121,5 @@ Currently, two official plugins are available:
 # output
 ![Screenshot 2025-07-07 at 12-45-52 Book-Store  doc - Book-Store doc 1 pdf](https://github.com/user-attachments/assets/9f6364a3-d116-4477-8654-bba7e25074cb)
 
-
-
+#project file
+https://docs.google.com/document/d/1JdgMM0JVzFLGyxRBPvDCaX-JtpPh57kS/edit?usp=drivesdk&ouid=102060358621218266304&rtpof=true&sd=true
